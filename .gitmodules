@@ -1,0 +1,30 @@
+[submodule "42Cursus_computorv1"]
+	path = 42Cursus_computorv1
+	url = https://github.com/jesuserr/42Cursus_computorv1.git
+[submodule "42Cursus_libasm"]
+	path = 42Cursus_libasm
+	url = https://github.com/jesuserr/42Cursus_libasm.git
+[submodule "42Cursus_ft_linear_regression"]
+	path = 42Cursus_ft_linear_regression
+	url = https://github.com/jesuserr/42Cursus_ft_linear_regression.git
+[submodule "42Cursus_malloc"]
+	path = 42Cursus_malloc
+	url = https://github.com/jesuserr/42Cursus_malloc.git
+[submodule "42Cursus_darkly"]
+	path = 42Cursus_darkly
+	url = https://github.com/jesuserr/42Cursus_darkly.git
+[submodule "42Cursus_ft_ping"]
+	path = 42Cursus_ft_ping
+	url = https://github.com/jesuserr/42Cursus_ft_ping.git
+[submodule "42Cursus_ft_traceroute"]
+	path = 42Cursus_ft_traceroute
+	url = https://github.com/jesuserr/42Cursus_ft_traceroute.git
+[submodule "42Cursus_ft_ssl_md5"]
+	path = 42Cursus_ft_ssl_md5
+	url = https://github.com/jesuserr/42Cursus_ft_ssl_md5.git
+[submodule "42Cursus_ft_ssl_des"]
+	path = 42Cursus_ft_ssl_des
+	url = https://github.com/jesuserr/42Cursus_ft_ssl_des.git
+[submodule "42Cursus_ft_ssl_rsa"]
+	path = 42Cursus_ft_ssl_rsa
+	url = https://github.com/jesuserr/42Cursus_ft_ssl_rsa.git

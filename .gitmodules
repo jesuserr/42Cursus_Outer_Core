@@ -31,3 +31,6 @@
 [submodule "42Cursus_snow_crash"]
 	path = 42Cursus_snow_crash
 	url = https://github.com/jesuserr/42Cursus_snow_crash
+[submodule "42Cursus_ft_ls"]
+	path = 42Cursus_ft_ls
+	url = https://github.com/jesuserr/42Cursus_ft_ls.git

@@ -34,3 +34,6 @@
 [submodule "42Cursus_ft_ls"]
 	path = 42Cursus_ft_ls
 	url = https://github.com/jesuserr/42Cursus_ft_ls.git
+[submodule "42Cursus_ft_nm"]
+	path = 42Cursus_ft_nm
+	url = https://github.com/jesuserr/42Cursus_ft_nm.git

@@ -40,3 +40,6 @@
 [submodule "42Cursus_ft_nmap"]
 	path = 42Cursus_ft_nmap
 	url = https://github.com/jesuserr/42Cursus_ft_nmap.git
+[submodule "42Cursus_ft_linux"]
+	path = 42Cursus_ft_linux
+	url = https://github.com/jesuserr/42Cursus_ft_linux.git

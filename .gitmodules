@@ -43,3 +43,6 @@
 [submodule "42Cursus_ft_linux"]
 	path = 42Cursus_ft_linux
 	url = https://github.com/jesuserr/42Cursus_ft_linux.git
+[submodule "42Cursus_lem_ipc"]
+	path = 42Cursus_lem_ipc
+	url = https://github.com/jesuserr/42Cursus_lem_ipc

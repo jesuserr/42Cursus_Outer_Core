@@ -49,3 +49,6 @@
 [submodule "42Cursus_ft_malcolm"]
 	path = 42Cursus_ft_malcolm
 	url = https://github.com/jesuserr/42Cursus_ft_malcolm.git
+[submodule "42Cursus_rainfall"]
+	path = 42Cursus_rainfall
+	url = https://github.com/jesuserr/42Cursus_rainfall.git
